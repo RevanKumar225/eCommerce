@@ -1,0 +1,302 @@
+{
+  "HOME": {
+    "TITLE": "Customer Login",
+    "SELECT": "Change language"
+  },
+  "SLTLANG": {
+    "TITLE": "Select Language"
+  },
+  "EMAILTXT": {
+    "TITLE": "Email"
+  },
+  "PLEMAILTXT": {
+    "TITLE": "Enter Email here..."
+  },
+  "PWDTXT": {
+    "TITLE": "Password"
+  },
+  "PLPWDTXT": {
+    "TITLE": "Enter Password here..."
+  },
+  "RMBMETXT": {
+    "TITLE": "Remember Me"
+  },
+  "FGPWDXT": {
+    "TITLE": "Forgot Password?"
+  },
+  "LGNTXT": {
+    "TITLE": "Login"
+  },
+  "HDRSEARCHTXT": {
+    "TITLE": "Search here..."
+},
+"HDRLI11TXT": {
+  "TITLE": "Home"
+},
+"HDRLI12TXT": {
+  "TITLE": "Profile"
+},
+"HDRLI13TXT": {
+  "TITLE": "Sign Out"
+},
+"FTRDISTXT": {
+  "TITLE": "DISCOVER"
+},
+"FTRDISSTTXT": {
+  "TITLE": "Our Story"
+},
+"FTRDISPRSTXT": {
+  "TITLE": "Press"
+},
+"FTRDISCNTUSTXT": {
+  "TITLE": "Contact Us"
+},
+"FTRDISABTUSTXT": {
+  "TITLE": "About Us"
+},
+"FTRSUPRTTXT": {
+  "TITLE": "SUPPORT"
+},
+"FTRSPORDSTTXT": {
+  "TITLE": "Order Status"
+},
+"FTRSPCODTXT": {
+  "TITLE": "Cash on Delivery"
+},
+"FTRSPFAQTXT": {
+  "TITLE": "FAQ"
+},
+"FTRSPT&CTXT": {
+  "TITLE": "Terms & Conditions"
+},
+"FTRSERVICESTXT": {
+  "TITLE": "SERVICES"
+},
+"FTRSRVDTRGTXT": {
+  "TITLE": "Distributor Registration"
+},
+"FTRSRVCOTXT": {
+  "TITLE": "Corporate Order"
+},
+"FTRSRVGFTCRDTXT": {
+  "TITLE": "Gift Cards"
+},
+"FTRCUSTSRVTXT": {
+  "TITLE": "CUSTOMER SERVICE"
+},
+"FTRCSTOUCHTXT": {
+  "TITLE": "Stay in touch, Won't you?"
+},
+"FTRCSUPDTXT": {
+  "TITLE": "Sign up for our newsletter to recover updates new arrivals"
+},
+"FTRCSSENDTXT": {
+  "TITLE": "SEND"
+},
+"DHBCRDTTXT": {
+  "TITLE": "Credit Details"
+},
+"DHBTOTCRDLMTTTXT": {
+  "TITLE": "Total Credit Limit"
+},
+"DHBAVLLMTTXT": {
+  "TITLE": "Available Limit"
+},
+"DHBORDERSTXT": {
+  "TITLE": "Orders"
+},
+"DHBTTLODRTXT": {
+  "TITLE": "Total Orders"
+},
+"DHBPNDDLVRTXT": {
+  "TITLE": "Pending For Delivery"
+},
+"DHBRCTODRSTXT": {
+  "TITLE": "Recent Orders"
+},
+"DHBVEWALLORDTXT": {
+  "TITLE": "VIEW ALL"
+},
+"DHBORDIDTXT": {
+  "TITLE": "Order ID"
+},
+"DHBORDVALUETXT": {
+  "TITLE": "Order Value"
+},
+"DHBREORDERTXT": {
+  "TITLE": "REORDER"
+},
+"DHBTRCKORDTXT": {
+  "TITLE": "TRACK ORDER"
+},
+"DHBFRQBGHTTXT": {
+  "TITLE": "Frequently Bought"
+},
+"ODRTRKORDRTXT": {
+  "TITLE": "Order"
+},
+"ODRTRKTXT": {
+  "TITLE": "Tracking details"
+},
+"ODRTRKDLVRTXT": {
+  "TITLE": "Delivered"
+},
+"ODRTRKINVCTXT": {
+  "TITLE": "Invoiced"
+},
+"ODRTRKAPRVDTXT": {
+  "TITLE": "Approved"
+},
+"ODRTRKORDPLDTXT": {
+  "TITLE": "Order Placed"
+},
+"ODRTRKOKTXT": {
+  "TITLE": "Okey"
+},
+"PRDDTLADTCRTTXT": {
+  "TITLE": "ADD TO CART"
+},
+"PRDDTLNTFYMETXT": {
+  "TITLE": "NOTIFY ME"
+},
+"PRDDTLWSHLSTTXT": {
+  "TITLE": "ADD TO WISHLIST"
+},
+"PRDDTBRANDTXT": {
+  "TITLE": "BRAND"
+},
+"PRDDTLCTGTXT": {
+  "TITLE": "CATEGORY"
+},
+"PRDDTLITMGRPTXT": {
+  "TITLE": "ITEMGROUP"
+},
+"PRDDTLDESCTXT": {
+  "TITLE": "Description"
+},
+"PRDDTLMSTLOVTXT": {
+  "TITLE": "Most Loved"
+},
+"PRDDTLINCTXSTXT": {
+  "TITLE": "Above price is inclusive of taxes "
+},
+
+"CARTYOURTXT": {
+  "TITLE": "YOUR SHOPPING CART"
+},
+"WISHLISTYOURTXT": {
+  "TITLE": "YOUR WISHLIST"
+},
+"CARTPRDCHECKTXT": {
+  "TITLE": "PROCEED TO CHECK OUT"
+},
+"CARTCTNSHPTXT": {
+  "TITLE": "CONTINUE SHOPPING"
+},
+"CARTMYTMPLTTXT": {
+  "TITLE": "SAVE TO TEMPLATE"
+},
+"CARTPRDCTTXT": {
+  "TITLE": "Product"
+},
+"CARTQTYTXT": {
+  "TITLE": "Quantity"
+},
+"CARTUNTPRCTXT": {
+  "TITLE": "Unit Price"
+},
+"CARTSBTOTTXT": {
+  "TITLE": "SUB TOTAL"
+},
+"CARTGIFTTXT": {
+  "TITLE": "IT'S A GIFT"
+},
+"CARTGIFTWRPTXT": {
+  "TITLE": "GIFT-WRAP THIS ITEM"
+},
+"CARTCUPNTXT": {
+  "TITLE": "COUPON"
+},
+"CARTCUPNCODTXT": {
+  "TITLE": "Coupon Code"
+},
+"CARTGFTCRDCODTXT": {
+  "TITLE": "Gift Card Code"
+},
+"CARTPROMOTXT": {
+  "TITLE": "Promotion"
+},
+"CARTSHPCHGTXT": {
+  "TITLE": "SHIPPING CHARGES"
+},
+"CARTTAXESTXT": {
+  "TITLE": "TAXES"
+},
+"CARTSTTAXTXT": {
+  "TITLE": "StateTax"
+},
+"CARTIHCRDTXT": {
+  "TITLE": "I HAVE A GIFT CARD"
+},
+"CARTGRNTOTTXT": {
+  "TITLE": "GRAND TOTAL"
+},
+"CARTCHGEXTTXT": {
+  "TITLE": "Shipping charges are extra"
+},
+
+"ORDHSTYRORDTXT": {
+  "TITLE": "YOUR ORDERS"
+},
+"ORDHSTALORDTXT": {
+  "TITLE": "All Orders"
+},
+"ORDHSTSRHTXT": {
+  "TITLE": "Search by Order Number/Item"
+},
+"HDRCSTTYPTXT": {
+  "TITLE": "CUSTOMER TYPE"
+},
+"HDRODRTYPTXT": {
+  "TITLE": "ORDER TYPE"
+},
+"HDRCRTODRTXT": {
+  "TITLE": "Create Order"
+},
+"HDRMYTMPTXT": {
+  "TITLE": "My Templates"
+},
+"HDRMYODRSTXT": {
+  "TITLE": "My Orders"
+},
+"HDRMYDLVRTXT": {
+  "TITLE": "My Deliveries"
+},
+"HDRCRDTDTLTXT": {
+  "TITLE": "Credit Details"
+},
+"HDRCSTSPRTTXT": {
+  "TITLE": "Customer Support"
+},
+"HDRFAQSTXT": {
+  "TITLE": "FAQ's"
+},
+"AMYDHBLVDTXT": {
+  "TITLE": "MOST LOVED's"
+},
+"AMYDHBSHPDTXT": {
+  "TITLE": "Shop Now"
+},
+"AMYDHBMNTSPLTXT": {
+  "TITLE": "THIS MONTH SPECIAL"
+},
+"AMYDHBWERCDTXT": {
+  "TITLE": "WE RECOMMEND"
+},
+
+
+  "IMAGE": {
+    "c": "assets/images.jpg",
+    "SELECT": "Change language"
+  }
+}

@@ -1,0 +1,304 @@
+{
+    "HOME": {
+        "TITLE": "Login del cliente",
+        "SELECT": ",Changer la langue"
+    },
+    "SLTLANG": {
+        "TITLE": "Seleccione el idioma"
+    },
+    "EMAILTXT": {
+        "TITLE": "Correos electrónicos"
+    },
+    "PLEMAILTXT": {
+        "TITLE": "Ingrese el correo electrónico aquí ..."
+    },
+    "PWDTXT": {
+        "TITLE": "Contraseña"
+    },
+    "PLPWDTXT": {
+        "TITLE": "Ingrese la contraseña aquí..."
+    },
+    "RMBMETXT": {
+        "TITLE": "Recuérdame"
+    },
+    "FGPWDXT": {
+        "TITLE": "¿Se te olvidó tu contraseña?"
+    },
+    "LGNTXT": {
+        "TITLE": "Iniciar sesión"
+    },
+    "HDRSEARCHTXT": {
+        "TITLE": "Busca aquí..."
+    },
+    "HDRLI11TXT": {
+        "TITLE": "Hogar"
+    },
+    "HDRLI12TXT": {
+        "TITLE": "Perfi"
+    },
+    "HDRLI13TXT": {
+        "TITLE": "Desconectar"
+    },
+    "FTRDISTXT": {
+        "TITLE": "DESCUBRIR"
+    },
+    "FTRDISSTTXT": {
+        "TITLE": "Nuestra historia"
+    },
+    "FTRDISPRSTXT": {
+        "TITLE": "Prensa"
+      },
+    "FTRDISCNTUSTXT": {
+        "TITLE": "Contáctenos"
+      },
+      "FTRDISABTUSTXT": {
+        "TITLE": "Sobre nosotros"
+      },
+      "FTRSUPRTTXT": {
+        "TITLE": "APOYO"
+      },
+      "FTRSPORDSTTXT": {
+        "TITLE": "Estado del pedido"
+      },
+      "FTRSPCODTXT": {
+        "TITLE": "Contra reembolso"
+      },
+      "FTRSPFAQTXT": {
+        "TITLE": "Preguntas más frecuentes"
+      },
+      "FTRSPT&CTXT": {
+        "TITLE": "Términos y condiciones"
+      },
+      "FTRSERVICESTXT": {
+        "TITLE": "SERVICIOS"
+      },
+      "FTRSRVDTRGTXT": {
+        "TITLE": "Registro de Distribuidor"
+      },
+      "FTRSRVCOTXT": {
+        "TITLE": "Orden corporativa"
+      },
+      "FTRSRVGFTCRDTXT": {
+        "TITLE": "Tarjetas de regalo"
+      },
+      "FTRCUSTSRVTXT": {
+        "TITLE": "SERVICIO AL CLIENTE"
+      },
+      "FTRCSTOUCHTXT": {
+        "TITLE": "Mantente en contacto, ¿no?"
+      },
+      "FTRCSUPDTXT": {
+        "TITLE": "Suscríbete a nuestro boletín para recuperar las actualizaciones de los recién llegados"
+      },
+      "FTRCSSENDTXT": {
+        "TITLE": "ENVIAR"
+      },
+      "DHBCRDTTXT": {
+        "TITLE": "Detalles de crédito"
+      },
+      "DHBTOTCRDLMTTTXT": {
+        "TITLE": "Límite de crédito total"
+      },
+      "DHBAVLLMTTXT": {
+        "TITLE": "Límite disponible"
+      },
+      "DHBORDERSTXT": {
+        "TITLE": "Pedidos"
+      },
+      "DHBTTLODRTXT": {
+        "TITLE": "Pedidos totales"
+      },
+      "DHBPNDDLVRTXT": {
+        "TITLE": "Pendiente de entrega"
+      },
+      "DHBRCTODRSTXT": {
+        "TITLE": "Órdenes Recientes"
+      },
+      "DHBVEWALLORDTXT": {
+        "TITLE": "VER TODO"
+      },
+      "DHBORDIDTXT": {
+        "TITLE": "Solicitar ID"
+      },
+      "DHBORDVALUETXT": {
+        "TITLE": "Valor del pedido"
+      },
+      "DHBREORDERTXT": {
+        "TITLE": "REORDENADOR"
+      },
+      "DHBTRCKORDTXT": {
+        "TITLE": "ORDEN DE PISTA"
+      },
+      "DHBFRQBGHTTXT": {
+        "TITLE": "Comprado frecuentemente"
+      },
+      "ODRTRKORDRTXT": {
+        "TITLE": "Orden"
+      },
+      "ODRTRKTXT": {
+        "TITLE": "Orden semanal"
+      },
+      "ODRTRKDLVRTXT": {
+        "TITLE": "Entregada"
+      },
+      "ODRTRKINVCTXT": {
+        "TITLE": "Facturada"
+      },
+      "ODRTRKAPRVDTXT": {
+        "TITLE": "Aprobada"
+      },
+      "ODRTRKORDPLDTXT": {
+        "TITLE": "Pedido realizado"
+      },
+      "ODRTRKOKTXT": {
+        "TITLE": "Bueno"
+      },
+      "PRDDTLADTCRTTXT": {
+        "TITLE": "AÑADIR AL CARRITO"
+      },
+      "PRDDTLNTFYMETXT": {
+        "TITLE": "NOTIFICARME"
+      },
+      "PRDDTLWSHLSTTXT": {
+        "TITLE": "AÑADIR A LA LISTA DE DESEOS"
+      },
+      "PRDDTBRANDTXT": {
+        "TITLE": "MARCA"
+      },
+      "PRDDTLCTGTXT": {
+        "TITLE": "CATEGORÍA"
+      },
+      "PRDDTLITMGRPTXT": {
+        "TITLE": "GRUPO DE ARTÍCULOS"
+      },
+      "PRDDTLDESCTXT": {
+        "TITLE": "Descripción"
+      },
+      "PRDDTLMSTLOVTXT": {
+        "TITLE": "Más amado"
+      },
+      "PRDDTLINCTXSTXT": {
+        "TITLE": "El precio anterior incluye impuestos"
+      },
+      "CARTYOURTXT": {
+        "TITLE": "TU CARRITO DE LA COMPRA"
+      },  
+      "CARTPRDCHECKTXT": {
+        "TITLE": "PASAR POR LA CAJA"
+      },
+      "CARTGFTCRDCODTXT": {
+        "TITLE": "Código de tarjeta de regalo"
+      },
+      "CARTCTNSHPTXT": {
+        "TITLE": "SEGUIR COMPRANDO"
+      },
+      "CARTPRDCTTXT": {
+        "TITLE": "Producto"
+      },
+      "CARTQTYTXT": {
+        "TITLE": "Cantidad"
+      },
+      "CARTUNTPRCTXT": {
+        "TITLE": "Precio unitario"
+      },
+      "CARTSBTOTTXT": {
+        "TITLE": "TOTAL PARCIAL"
+      },
+      "CARTGIFTTXT": {
+        "TITLE": "ES UN REGALO"
+      },
+      "CARTGIFTWRPTXT": {
+        "TITLE": "ENVUELVE PARA REGALO ESTE PRODUCTO"
+      },
+      "CARTCUPNTXT": {
+        "TITLE": "CUPÓN"
+      },
+      "CARTCUPNCODTXT": {
+        "TITLE": "Código promocional"
+      },
+      "CARTPROMOTXT": {
+        "TITLE": "Promoción"
+      },
+      "CARTSHPCHGTXT": {
+        "TITLE": "GASTOS DE ENVÍO"
+      },
+      "CARTTAXESTXT": {
+        "TITLE": "IMPUESTOS"
+      },
+      "CARTSTTAXTXT": {
+        "TITLE": "Impuesto estatal"
+      },
+      "CARTIHCRDTXT": {
+        "TITLE": "TENGO UNA TARJETA DE REGALO"
+      },
+      "CARTGRNTOTTXT": {
+        "TITLE": "GRAN TOTAL"
+      },
+      "CARTCHGEXTTXT": {
+        "TITLE": "Los gastos de envío son extra"
+      },
+      "CARTPRCKOTTXT": {
+        "TITLE": " PROCEED TO CHECK OUT"
+      },
+      "ORDHSTYRORDTXT": {
+        "TITLE": "TUS ORDENES"
+      },
+      "ORDHSTALORDTXT": {
+        "TITLE": "Todas las órdenes"
+      },
+      "ORDHSTSRHTXT": {
+        "TITLE": "Buscar por número de pedido / artículo"
+      },
+      "HDRCSTTYPTXT": {
+        "TITLE": "TIPO DE CLIENTE"
+      },
+      "HDRODRTYPTXT": {
+        "TITLE": "TIPO DE ORDEN"
+      },
+      "HDRCRTODRTXT": {
+        "TITLE": "Crear orden"
+      },
+      "HDRMYTMPTXT": {
+        "TITLE": "Mis plantillas"
+      },
+      "HDRMYODRSTXT": {
+        "TITLE": "Mis ordenes"
+      },
+      "HDRMYDLVRTXT": {
+        "TITLE": "Mis entregas"
+      },
+      "HDRCRDTDTLTXT": {
+        "TITLE": "Detalles de crédito"
+      },
+      "HDRCSTSPRTTXT": {
+        "TITLE": "Atención al cliente"
+      },
+      "HDRFAQSTXT": {
+        "TITLE": "Preguntas frecuentes"
+      },
+      "WISHLISTYOURTXT": {
+        "TITLE": "TU LISTA DE DESEOS"
+      },
+      "CARTMYTMPLTTXT": {
+        "TITLE": "GUARDAR EN PLANTILLASS"
+      },
+      "AMYDHBLVDTXT": {
+        "TITLE": "MÁS AMADOS"
+      },
+      "AMYDHBSHPDTXT": {
+        "TITLE": "Compra ahora"
+      },
+      "AMYDHBMNTSPLTXT": {
+        "TITLE": "ESTE MES ESPECIAL"
+      },
+      "AMYDHBWERCDTXT": {
+        "TITLE": "Nosotras recomendamos"
+      },
+      
+      
+    "IMAGE": {
+        "TITLE": "assets/imagesfr.jpg",
+        "SELECT": "Change language"
+    }
+}
+

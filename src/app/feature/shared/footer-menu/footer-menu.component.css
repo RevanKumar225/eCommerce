@@ -1,0 +1,108 @@
+.row {
+    margin: 0;
+}
+
+.cls_underline {
+    border-bottom: 1px solid #979797;
+    margin: 42px 0px;
+    float: left;
+    width: 100%;
+}
+.cls_footermain {
+    width: 100%;
+    float: left;
+}
+.cls_footermain ul li a {
+    
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    padding: 0px;
+    color: #323232;
+    text-decoration: none;
+    outline: 0;
+}
+.cls_footermain h1 {
+    color: #111111;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+ul li {
+
+    padding: 0;
+}
+.cls_footermain ul {
+    width: 100%;
+    float: left;
+    list-style: none;
+    padding: 0px;
+    margin-bottom: 10px;
+}
+.cls_whattosay h2 {
+    width: 100%;
+    float: left;
+    color: #111111;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-transform: uppercase;
+}
+.cls_whattosay p {
+    color: #979890;
+    float: left;
+    font-family: 'Lato', sans-serif;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+    font-size: 14px;
+    text-transform: none;
+    margin-top: 12px;
+}
+.cls_social ul li {
+    float: left;
+    margin-right: 20px;
+    margin-top: 33px;
+    margin-bottom: 10px;
+}
+.cls_social ul {
+    width: 100%;
+    float: left;
+    list-style: none;
+}
+.cls_emailsend {
+    width: 100%;
+    float: left;
+}
+.cls_emailsend input {
+    width: 75%;
+    float: left;
+    border: 1px solid #e2e2e2;
+    height: 39px;
+}
+.cls_form_input {
+   
+    font-family: 'Lato', sans-serif;
+   
+    padding: 5px;
+   
+    color: #949da4;
+    font-size: 13px;
+}
+.cls_sendbtn {
+    width: 25%;
+    height: 39px;
+    background: #4a4a4c;
+    color: #fff;
+    float: left;
+    line-height: 39px;
+}
+.cls_sendbtn a {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    float: left;
+    width: 100%;
+    text-align: center;
+}

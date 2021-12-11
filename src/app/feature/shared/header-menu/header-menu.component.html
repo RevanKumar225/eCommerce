@@ -1,0 +1,55 @@
+<div class="container" style="padding: 0;">
+    <div style="padding:0px;" class="col-sm-12 col-xs-12 col-lg-12 col-md-12 null_padding_mt">
+        <div class="cls_header">
+            <div class="cls_headerleft">
+                <div class="cls_memu">
+                    <a href="javascript:void(0)">
+                        <img class="img-responsive" (click)="OnOpenBar()" src="assets/header/menu_1.png">
+                    </a>
+                </div>
+
+                <div class="cls_logo">
+                    <a href="javascript:void(0)">
+                        <img class="img-responsive" style="height: 40px;" routerLink="/MyDashboard"
+                            src="assets/header/logo_1.png">
+                    </a>
+                </div>
+            </div>
+
+            <div class="cls_headerright">
+                <a href="javascript:void(0)" style="color: red;">
+                    <img class="width_33px img-responsive" routerLink="/Cart"
+                        src="assets/header/cart.png">{{message?.text == undefined ? '0' : message?.text }}
+                </a>
+                <a href="javascript:void(0)" style="color: red;">
+                    <img class="img-responsive width_33px" routerLink="/WishLists"
+                        src="assets/header/fav.png" />{{WLCount?.text == undefined ? '0' : WLCount?.text }}
+                </a>
+                <a href="javascript:void(0)">
+                </a>
+
+                <div class="dropdown">
+                    <img class="img-responsive" (click)="viewProfile()" class="width_33px dropbtn img-responsive" style="width: 32px;
+                    padding: 0;" src="assets/header/user.png" />
+                    <div class="dropdown-content" style="margin-left: -112px;margin-top: 5px;">
+                        <a routerLink='/UserProfile'></a>
+                        <a href="javascript:void(0)" (click)="onLogout()"></a>
+                    </div>
+
+                </div>
+
+            </div>
+            <div style="width:100%;float:left;">
+                <input type="search" class="form-control" name="filter" style="width:100%;float:left;margin-top: 15px;">
+            </div>
+
+        </div>
+        <!-- <app-search [onSearch]="searchModel2"></app-search> -->
+
+    </div>
+
+    <div>
+
+    </div>
+
+</div>
